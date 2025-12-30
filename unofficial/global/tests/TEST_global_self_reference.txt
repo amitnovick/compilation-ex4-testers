@@ -1,4 +1,0 @@
-int g := g + 1;
-void main() {
-    int x := g;
-}
