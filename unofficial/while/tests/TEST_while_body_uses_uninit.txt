@@ -1,0 +1,5 @@
+void main() {
+    int x;
+    int cond := 1;
+    while (cond > 0) { int y := x; cond := 0; }
+}

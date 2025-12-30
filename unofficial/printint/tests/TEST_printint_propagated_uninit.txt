@@ -1,0 +1,5 @@
+int g;
+void main() {
+    int x := g;
+    PrintInt(x);
+}

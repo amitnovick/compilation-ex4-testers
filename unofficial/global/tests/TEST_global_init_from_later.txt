@@ -1,0 +1,5 @@
+int a := b;
+int b;
+void main() {
+    int x := a;
+}
